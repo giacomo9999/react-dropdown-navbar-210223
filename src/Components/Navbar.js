@@ -11,7 +11,7 @@ const Navbar = () => {
       <li
         onClick={() => {
           setListOpen(!listOpen);
-          console.log("List Open");
+          console.log("List Open: ", listOpen);
         }}
       >
         Projects

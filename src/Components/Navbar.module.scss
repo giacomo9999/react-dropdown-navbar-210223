@@ -24,6 +24,11 @@
     text-align: center;
     border-style: none;
   }
+
+  a {
+    color: green;
+    text-decoration: none;
+  }
 }
 
 .dropdown {
@@ -35,9 +40,4 @@
   color: #0544f9;
   cursor: pointer;
   opacity: 100;
-}
-
-.logo {
-  color: green;
-  text-decoration: none;
 }
